@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Simple Api with Node and Express"
+title: Simple Api With Express
 modified:
 categories: blog
 excerpt:
-tags: [node, express, api, web service]
+tags: []
 image:
   feature:
-date: 2016-05-01T11:18:50-04:00
+date: 2016-05-02T13:44:13+02:00
 ---
 
-# Api with Expressjs
+
+## Api with Expressjs
 
 ## Prerequisites
 
