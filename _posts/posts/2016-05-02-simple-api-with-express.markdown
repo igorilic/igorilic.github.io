@@ -10,8 +10,8 @@ image:
 date: 2016-05-02T13:44:13+02:00
 ---
 
-
-## Api with Expressjs
+If you're want to build an Api in javascript, ExpressJs is a right thing to do so.
+You can use this Api for various clients building the Api in a smart and productive way. 
 
 ## Prerequisites
 
@@ -42,7 +42,8 @@ Now we can configure server. I name the file app.js, but you can go with whateve
 
 ## REST
 
-REST is abbreviation for the Representational State Transfer. It is the set of constraints or rules how you communicate with the service. 
+REST is abbreviation for the Representational State Transfer. 
+It is the set of constraints or rules how you communicate with the service. 
 
 ## Gulp setup
 
